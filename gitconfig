@@ -1,0 +1,7 @@
+[user]
+	name = Alejandro Pereira
+	email = ja.pereiragt@gmail.com
+[push]
+	default = matching
+[alias]
+	s = status
